@@ -702,18 +702,6 @@ print(f't-sne fit-transform on gpu took {gpu_tsne_seconds:.2f} seconds')
 ```
 output: t-sne fit-transform on GPU took 1.73 seconds
 
----
-
-## Contribution Table
-[🔝](#contents)
-
-| Name | Contribution |
-| --- | --- |
-| Venkataramana Ganesh | Project Head, Responsible for Data Cleaning & Preprocessing, Identifying and implementing supervised learning models, Model explainability, GPU Acceleration, and benchmarking, Github pages |
-| Ritu Sinha | Project Co-head, Responsible for Exploratory Data Analysis, Visualization, and feature selection using different techniques, Identifying and Implementing supervised learning models, Github pages, ppt |
-| Harshitha Sanjeev Kumar | Responsible for model performance metrics, Hyperparameter optimization, along with the implementation of supervised learning methods, ppt |
-| Pankaj Dahiya | Responsible for the implementation of unsupervised learning methods and a feature selection, ppt |
-| Jaya Pandey | Unsupervised learning and content |
 
 ---
 
